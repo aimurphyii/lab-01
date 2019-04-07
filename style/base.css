@@ -1,0 +1,26 @@
+@media(max-width: 767px){
+  section{
+    margin: 0 auto;
+    width: 480px;
+  }
+  div {
+    border: solid 1px #999;
+    background: #eeeeee;
+    box-sizing: border-box; 
+    float: left;
+  }   
+}
+
+
+@media (min-width: 768px) {
+  section {
+    margin: 0 auto;
+    width: 960px;
+  }
+  div {
+    border: solid 1px #999;
+    background: #83e28b;
+    box-sizing: border-box; 
+    float: left;
+  }  
+}
