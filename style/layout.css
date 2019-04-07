@@ -1,0 +1,31 @@
+@media(max-width: 767px){
+  .m-rect {
+    width: 480px;
+  }  
+  
+  .m-sq {
+    width: 240px;
+  }
+}
+
+@media (min-width: 768px) {
+  .d-primary {
+    width: 380px;
+  }  
+
+  .d-secondary {
+    width: 190px;
+  }
+
+  .d-head{
+    width:960px;
+  }
+
+  .d-aside{
+    width:200px;
+  }
+
+  .d-foot{
+    width:760px;
+  }
+}
