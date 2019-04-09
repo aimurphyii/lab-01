@@ -6,25 +6,49 @@ div{
   #a{
     height: 75px;
     line-height: 75px;
+    background: red;
   }
 
   #b{
     height:150px;
     line-height:150px;
+    background: orange;
   }
 
-  #c, #d {
+  #c{
     height:125px;
     line-height:125px;
+    background:yellow;
   }
-
-  #e, #f, #g, #h{
+  #d{
+    height:125px;
+    line-height:125px;
+    background:green;
+  }
+  #e{
     height:250px;
     line-height:250px;
+    background: blue;
+  }
+  #f{
+    height:250px;
+    line-height:250px;
+    background: indigo;
+  }
+  #g{
+    height:250px;
+    line-height:250px;
+    background: violet;
+  }
+  #h{
+    height:250px;
+    line-height:250px;
+    background: pink;
   }
   #i{
     height:80px;
     line-height:80px;
+    background: turquoise;
   }
 }
 
@@ -32,25 +56,50 @@ div{
   #a{
     height: 100px;
     line-height: 100px;
+    background: orangered;
   }
 
   #b{
     height:600px;
     line-height:600px;
+    background: darksalmon;
   }
 
-  #c, #d {
+  #c{
     height:200px;
     line-height:200px;
+    background: yellowgreen;
+  }
 
+  #d {
+    height:200px;
+    line-height:200px;
+    background: olivedrab;
   }
 
   #e, #f, #g, #h{
     height:250px;
     line-height:250px;
+    background:aquamarine;
+  }
+  #f{
+    height:250px;
+    line-height:250px;
+    background: plum;
+  }
+  #g{
+    height:250px;
+    line-height:250px;
+    background:cornflowerblue;
+  }
+  #h{
+    height:250px;
+    line-height:250px;
+    background: fuchsia;
   }
   #i{
     height:150px;
     line-height:150px;
+    background: teal;
   }
 }
