@@ -1,8 +1,8 @@
 div{
   text-align: center;
 }
-
-@media(max-width: 767px){
+/* mobile */
+@media(max-width: 959px){
   #a{
     height: 75px;
     line-height: 75px;
@@ -52,7 +52,8 @@ div{
   }
 }
 
-@media (min-width: 768px) {
+/* desktop */
+@media (min-width: 960px) {
   #a{
     height: 100px;
     line-height: 100px;
