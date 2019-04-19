@@ -1,4 +1,7 @@
+
+
 @media(max-width: 767px){
+
   .m-rect {
     width: 480px;
   }  
@@ -9,6 +12,7 @@
 }
 
 @media (min-width: 768px) {
+
   .d-primary {
     width: 380px;
   }  
@@ -28,4 +32,5 @@
   .d-foot{
     width:760px;
   }
+  
 }
