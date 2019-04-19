@@ -1,6 +1,6 @@
 
 
-@media(max-width: 767px){
+@media(max-width: 959px){
 
   .m-rect {
     width: 480px;
@@ -11,7 +11,7 @@
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 960px) {
 
   .d-primary {
     width: 380px;
